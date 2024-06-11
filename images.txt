@@ -1,1 +1,5 @@
 springhgui/fasttunnel:latest
+6053537/portainer-ce:latest
+cym1102/nginxwebui:latest
+jippi/pritunl:latest
+rustdesk/rustdesk-server:latest
