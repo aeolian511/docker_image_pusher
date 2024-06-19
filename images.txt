@@ -4,3 +4,4 @@ cym1102/nginxwebui:latest
 jippi/pritunl:latest
 rustdesk/rustdesk-server:latest
 snail007/goproxy
+fs185085781/webos
