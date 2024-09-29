@@ -6,3 +6,4 @@ rustdesk/rustdesk-server:latest
 snail007/goproxy
 fs185085781/webos
 synctvorg/synctv
+oldiy/nps-server
