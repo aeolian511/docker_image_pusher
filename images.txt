@@ -3,8 +3,8 @@ springhgui/fasttunnel:latest
 cym1102/nginxwebui:latest
 jippi/pritunl:latest
 rustdesk/rustdesk-server:latest
-snail007/goproxy
-fs185085781/webos
-synctvorg/synctv
-oldiy/nps-server
+snail007/goproxy:latest
+fs185085781/webos:latest
+synctvorg/synctv:latest
+oldiy/nps-server:latest
 lanol/filecodebox:latest
