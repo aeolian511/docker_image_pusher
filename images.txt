@@ -8,5 +8,5 @@ fs185085781/webos:latest
 oldiy/nps-server:latest
 lanol/filecodebox:latest
 neosmemo/memos:latest
-b3log/siyuan​​
 synctvorg/synctv:latest
+b3log/siyuan:latest
