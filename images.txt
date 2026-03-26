@@ -7,7 +7,6 @@ snail007/goproxy:latest
 fs185085781/webos:latest
 oldiy/nps-server:latest
 lanol/filecodebox:latest
-neosmemo/memos:latest
 synctvorg/synctv:latest
 b3log/siyuan:latest
 aceberg/watchyourlan:latest
