@@ -12,3 +12,4 @@ b3log/siyuan:latest
 aceberg/watchyourlan:latest
 vaultwarden/server:latest
 pgsty/minio
+xhofe/alist:latest
