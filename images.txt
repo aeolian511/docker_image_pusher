@@ -11,7 +11,7 @@ synctvorg/synctv:latest
 b3log/siyuan:latest
 aceberg/watchyourlan:latest
 vaultwarden/server:latest
-playedu/light:1.8
+registry.cn-hangzhou.aliyuncs.com/playedu/light:1.8
 mysql:8.0
 redis:7-alpine
 minio/minio:latest
