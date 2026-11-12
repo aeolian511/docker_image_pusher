@@ -11,4 +11,3 @@ synctvorg/synctv:latest
 b3log/siyuan:latest
 aceberg/watchyourlan:latest
 vaultwarden/server:latest
-minio/minio
