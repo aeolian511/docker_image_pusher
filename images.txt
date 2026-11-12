@@ -11,7 +11,7 @@ synctvorg/synctv:latest
 b3log/siyuan:latest
 aceberg/watchyourlan:latest
 vaultwarden/server:latest
-playeduxyz/playedu:latest
-redis:7-alpine
+playedu/light:latest
+mysql:8.0
 redis:7-alpine
 minio/minio:latest
